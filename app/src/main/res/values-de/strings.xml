@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SVJ App</string>
+
+    <!-- Bottom navigation -->
+    <string name="nav_news">Neuigkeiten</string>
+    <string name="nav_teams">Mannschaften</string>
+    <string name="nav_schedule">Spielplan</string>
+    <string name="nav_contact">Kontakt</string>
+
+    <!-- Club info -->
+    <string name="club_name">Sportverein Jestetten 1920 e.V.</string>
+    <string name="club_founded">Gegründet: 1. März 1920</string>
+    <string name="club_colors">Vereinsfarben: Rot-Weiß</string>
+    <string name="club_league">Liga: Kreisliga A – Ost (SBFV)</string>
+
+    <!-- Contact -->
+    <string name="contact_title">Kontakt</string>
+    <string name="contact_address">Adresse</string>
+    <string name="contact_address_value">79798 Jestetten, Baden-Württemberg</string>
+    <string name="contact_website">Webseite</string>
+    <string name="contact_website_value">www.sv-jestetten.de</string>
+    <string name="contact_email">E-Mail</string>
+    <string name="contact_email_value">info@sv-jestetten.de</string>
+
+    <!-- About -->
+    <string name="about_title">Über den SVJ</string>
+    <string name="about_description">Der Sportverein Jestetten 1920 e.V. ist ein Fußballverein aus Jestetten, Baden-Württemberg.
+Gegründet am 1. März 1920 und seit 1968 im Vereinsregister eingetragen, spielt der Verein in der
+Kreisliga A – Ost des Südbadischen Fußballverbandes (SBFV) im Bezirk Hochrhein. Der Verein steht
+für Gemeinschaft, Jugendförderung und Breitensport.</string>
+</resources>
